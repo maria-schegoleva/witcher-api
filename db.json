@@ -4,7 +4,7 @@
       "id": 0,
       "name": "Witcher's Silver Sword (..for monsters) ",
       "category": "weapon",
-      "img": "https://static.wikia.nocookie.net/witcher/images/a/ae/Tw3_witcher_silver_gryphon_sword_lvl1.png/revision/latest?cb=20161223201933",
+      "img": "https://www.darkknightarmoury.com/wp-content/uploads/2019/10/NP-K-1878-2.jpg",
       "description": " A silver sword is one of the two main tools of the witcher. It is a delicate blade only used against creatures who are vulnerable to silver, such as the undead and most types of monsters. It is light enough to be wielded in only one hand, leaving the other hand free for another weapon or for the casting of Signs."
     },
 
@@ -19,28 +19,28 @@
       "id": 2,
       "name": "УТОПЕЦ",
       "category": "bestiary",
-      "img": "https://static.wikia.nocookie.net/witcher/images/1/15/Bestiary_Drowner.png/revision/latest?cb=20071116211805",
-      "description": " "
+      "img": "https://avatars.mds.yandex.net/i?id=95bc5789525f8b4797d749cfe33a60e4-4581102-images-thumbs&n=13 ",
+      "description": "The drowner, a frightful creature of mud and scum, drags people down into mires and bubbling eddies. It feeds on young women who bathe in rivers and on occasion will pull men off their horses or carts as they cross a bridge or weir. Drowners arise from the bodies of villains who meet their end in running water or in undertows that appear after storms. These watery creatures embody the spirits of those who can not rest after death and are sometimes born of fetuses aborted by magical means.  "
     },
     {
       "id": 3,
       "name": "Ghoul",
       "category": "bestiary",
-      "img": "https://static.wikia.nocookie.net/witcher/images/c/c9/Tw3_journal_ghoul.png/revision/latest?cb=20160502084919",
+      "img": "https://avatars.mds.yandex.net/i?id=80dbcaec69f54518efe13a6f12a0eff2-5582077-images-thumbs&n=13",
       "description": "Ghouls are said to have been humans who were once forced into cannibalism and, after many years spent in dark crypts, underwent a horrifying transformation. Only human flesh can satisfy their eternal evil hunger, so they kill people and store the remains in the recesses of their lairs."
     },
     {
       "id": 4,
       "name": "Garkain",
       "category": "bestiary",
-      "img": "https://static.wikia.nocookie.net/vedmak/images/1/18/%D0%93%D0%B0%D1%80%D0%BA%D0%B0%D0%B8%D0%BD_%D0%9A%D0%B8%D0%92.png/revision/latest?cb=20170904152646",
+      "img": "https://avatars.mds.yandex.net/i?id=775f1435b83cec61b4265d882aece2d109a0cbc7-9025500-images-thumbs&n=13",
       "description": " Garkains, the filthiest of vampires, are uglier even than fleders. Since fleders are widely despised for their looks, it is easy to imagine how abominable garkains must be. As vampires, the creatures drink blood but they are also drawn to fresh meat, or even corpses."
     },
     {
       "id": 5,
       "name": "Kikimore",
       "category": "bestiary",
-      "img": "https://static.wikia.nocookie.net/witcher/images/0/05/Bestiary_Kikimore_warrior_full.png/revision/latest/scale-to-width-down/185?cb=20081115143530",
+      "img": "https://avatars.mds.yandex.net/i?id=2310bfddf79539a507311ed757ed1a4086a2814e-5843498-images-thumbs&n=13",
       "description": " Kikimore, or kikimora, is an insectoid monster species that lives underground, as well as in swamps."
     },
     {
@@ -54,35 +54,35 @@
       "id": 7,
       "name": "Basilisk",
       "category": "bestiary",
-      "img": "https://static.wikia.nocookie.net/witcher/images/b/bc/Tw3_journal_basilisk.png/revision/latest?cb=20160408164921",
+      "img": "https://avatars.mds.yandex.net/i?id=8db945c2f606a12834ab1ec147c0952316e30acd-9146551-images-thumbs&n=13",
       "description": " Simple people call the basilisk the king of the Zerrikanian deserts and often mistake it for a cockatrice. They claim that the beast is filled with such hatred towards all living things that even its breath is venomous and its glance turns the unwary to stone. The fact that witchers often encounter basilisks in dungeons and cellars contradicts the legend and suggests these creatures can reproduce under any conditions like many of their nasty monster brethren. In fairy tales, the only certain way to kill a basilisk is by holding a mirror in front of its eyes to divert its deadly gaze. Witchers reply that it is far better to smash the mirror on the creature's head."
     },
     {
       "id": 8,
       "name": "Swallow recipe",
       "category": "alchemy",
-      "img": "https://static.wikia.nocookie.net/witcher/images/6/67/Potion_Swallow.png/revision/latest?cb=20170711132734",
+      "img": "https://gamepedia.cursecdn.com/skyrim_gamepedia/7/72/PotionofPlentifulHealing.png",
       "description": " Swallow is a potion  used for healing purposes. Ingredients- Dwarven spirit x1, Celandine x5, Drowner brain x1"
     },
     {
       "id": 9,
       "name": "Cat potion recipe",
       "category": "alchemy",
-      "img": "https://static.wikia.nocookie.net/witcher/images/4/42/Potion_Cat.png/revision/latest?cb=20170711132314",
+      "img": "https://steamuserimages-a.akamaihd.net/ugc/1652217154237767588/15BD0B64496A846DD5162CD3532FBF69553C8D15/",
       "description": " Cat potion grants vision in total darkness, a very handy ability in crypts and caves, or just badly lit interiors."
     },
     {
       "id": 10,
       "name": "White honey recipe",
       "category": "alchemy",
-      "img": "https://static.wikia.nocookie.net/witcher/images/4/47/Potion_White_Honey.png/revision/latest?cb=20170711133409",
+      "img": "https://worldofplayers.ru/data/attachments/145/145019-b9fd16aeb350adcd5e25fea3b16e74d6.jpg",
       "description": " White Honey reduces Toxicity to zero and cancels the effects of other potions.Honeysuckle, Dwarven spirit"
     },
     {
       "id": 11,
       "name": "Troll decoction",
       "category": "poison",
-      "img": "https://static.wikia.nocookie.net/witcher/images/8/81/Tw3_decoction_alghoul.png/revision/latest?cb=20160530200045",
+      "img": "https://avatars.mds.yandex.net/i?id=62ce765a650577b4d89759a85654e42d4e41ffc6-9221733-images-thumbs&n=13",
       "description": " applied to poison any living being, be it in human form or monster one"
     }
   ]
